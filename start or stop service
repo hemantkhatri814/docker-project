@@ -1,0 +1,6 @@
+docker-compose up : to start container
+docker-compose stop: to stop
+docker-compose start: start
+docker-compose ps: to check running os
+docker-compose rm: to remove
+docker-compose up -d: to run in background
