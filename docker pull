@@ -1,0 +1,2 @@
+docker pull mysql:5.7
+docker pull wordpress
