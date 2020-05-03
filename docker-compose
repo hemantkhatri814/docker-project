@@ -1,2 +1,3 @@
 multi tier architecture based project using wordpress and mysql integrating both for web server
 install docker-compose
+docker-compose version
